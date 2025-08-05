@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Look my snake eating my repo
+
+![snake gif](https://github.com/ilystack/ilystack/blob/output/github-snake-dark.svg)
