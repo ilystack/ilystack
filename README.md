@@ -1,4 +1,4 @@
-## About me:
+# About me:
 I'm a web developer and currently a mahasiswa who's always curious about how things work on the web. I mainly build web apps, but kadang ngulik desain juga for fun. This repo showcases some of my personal projects, experiments, and a bit of creative coding. Feel free to explore, fork, or kasih bintang kalau suka! 🚀
 
 
@@ -17,12 +17,5 @@ I'm a web developer and currently a mahasiswa who's always curious about how thi
 ![](https://nirzak-streak-stats.vercel.app/?user=ilystack&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilystack&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ilystack&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
