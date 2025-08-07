@@ -1,4 +1,4 @@
-# About me:
+# Hi There:
 I'm a web developer and currently a mahasiswa who's always curious about how things work on the web. I mainly build web apps, but kadang ngulik desain juga for fun. This repo showcases some of my personal projects, experiments, and a bit of creative coding. Feel free to explore, fork, or kasih bintang kalau suka! 🚀
 
 
