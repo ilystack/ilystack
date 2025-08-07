@@ -3,7 +3,7 @@ I'm a web developer and currently a mahasiswa who's always curious about how thi
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilysauruss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilysantampan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yafi-ilyasa-4641872b0) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilysauruss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilysantampan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yafi-ilyasa-4641872b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
