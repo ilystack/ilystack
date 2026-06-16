@@ -1,14 +1,16 @@
-<img align="right" height="200" src="https://raw.githubusercontent.com/ilystack/ilystack/main/wellcome.gif"  />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ilystack.ilystack&"  />
 </div>
 
 ###
 
-<div align="right">
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/ilystack/ilystack/main/wellcome.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://id.linkedin.com/in/yafi-ilyasa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
