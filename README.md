@@ -1,5 +1,5 @@
 # Hi There:
-I'm a web developer and currently a mahasiswa who's always curious about how things work on the web. I mainly build web apps, but kadang ngulik desain juga for fun. This repo showcases some of my personal projects, experiments, and a bit of creative coding. Feel free to explore! 🚀
+I'm a Full Stack Developer and currently a mahasiswa who's always curious about how things work on the web. This repo showcases some of my personal projects, experiments, and a bit of creative coding. Feel free to explore! 🚀
 
 
 ## 🌐 Socials:
